@@ -21,15 +21,28 @@ Este repositório contém meu primeiro projeto em **C#**, criado como parte da m
 
 ---
 
-## 📌 Código-fonte
+## 💻 Como executar
 
-```csharp
-using System;
+1. Clone este repositório:
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
+   - **git clone:** https://github.com/MatheusOlliv/HelloWorld
+
+
+2. Abra o projeto no Visual Studio.
+   
+
+3. Pressione Run ▶️ para executar.
+
+   - O console exibirá:
+
+          Hello, World!
+
+---
+
+📚 Aprendizado
+
+- Primeiro contato com C# no Visual Studio.
+
+- Noções básicas sobre entrada/saída de console.
+
+Entendimento do fluxo de um projeto no GitHub.
