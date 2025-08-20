@@ -23,15 +23,12 @@ Este repositório contém meu primeiro projeto em **C#**, criado como parte da m
 
 ## 💻 Como executar
 
-1. Clone este repositório:
+1. Abra o Visual Studio e no terminal execute o comando:
 
-   - **git clone:** https://github.com/MatheusOlliv/HelloWorld
-
-
-2. Abra o projeto no Visual Studio.
+   - **git clone:** https://github.com/MatheusOlliv/helloworld.git
    
 
-3. Pressione Run ▶️ para executar.
+2. Pressione Run ▶️ (F5) para executar.
 
    - O console exibirá:
 
